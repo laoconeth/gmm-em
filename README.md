@@ -1,4 +1,4 @@
-# K-means and Gaussian Mixture EM Practice
+# TA Session: K-means and Gaussian Mixture EM Practice
 
 This repository contains code for the practice session of the KAIST Graduate School of AI - Samsung Electronics DS Non-Degree Program.
 
